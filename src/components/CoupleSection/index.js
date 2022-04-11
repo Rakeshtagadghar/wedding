@@ -12,7 +12,7 @@ class CoupleSection extends Component {
                         <div className="col col-xs-12">
                             <div className="couple-area clearfix">
                                 <div className="text-grid bride">
-                                    <h3>Jessica Henry</h3>
+                                    <h3>Amulya Gongle</h3>
                                     <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                     <div className="social">
                                         <ul>
@@ -28,7 +28,7 @@ class CoupleSection extends Component {
                                     </div>
                                 </div>
                                 <div className="text-grid groom">
-                                    <h3>Daniel Watson</h3>
+                                    <h3>Rakesh Tagadghar</h3>
                                     <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                     <div className="social">
                                         <ul>
