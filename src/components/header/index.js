@@ -68,7 +68,7 @@ class Header extends Component {
                           <li><NavLink onClick={ClickHandler} to="/home3">Announcement S2</NavLink></li>
                           <li><NavLink onClick={ClickHandler} to="/home4">Wedding Planner</NavLink></li>
                           <li><NavLink onClick={ClickHandler} to="/home5">Shop Home</NavLink></li>
-                          <li><NavLink onClick={ClickHandler} to="/home6">Invitation</NavLink></li>
+                          <li><NavLink onClick={ClickHandler} to="/invitation">Invitation</NavLink></li>
                         </ul>
                       </li>
                       <li><Link activeClass="active" to="couple" spy={true} smooth={true} offset={-100} duration={500} >Couple</Link></li>

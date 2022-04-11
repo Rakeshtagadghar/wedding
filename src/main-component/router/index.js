@@ -52,7 +52,7 @@ const AllRoute = () => {
             <Route path='/home3' component={HomePage3}/>
             <Route path='/home4' component={HomePage4}/>
             <Route path='/home5' component={HomePage5}/>
-            <Route path='/home6' component={HomePage6}/>
+            <Route path='/invitation' component={HomePage6}/>
             <Route path='/cart' component={CartPage}/>
             <Route path='/about' component={AboutPage} />
             <Route path='/story' component={StoryPage} />

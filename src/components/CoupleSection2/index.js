@@ -20,7 +20,7 @@ class CoupleSection2 extends Component {
                                                 <img src={coupleImg1} alt=""/>
                                             </div>
                                             <div className="couple-text">
-                                                <h3>Daniel Watson</h3>
+                                                <h3>Rakesh Tagadghar</h3>
                                                 <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
                                                     accumsan lacus vel facilisis.</p>
                                                 <div className="social">

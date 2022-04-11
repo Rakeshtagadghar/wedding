@@ -38,8 +38,8 @@ class Hero2 extends Component {
                                             <div className="wedding-announcement">
                                                 <div className="couple-text">
                                                     <div className="shape-1"><img src={heros1} alt="" /></div>
-                                                    <h2>Daniel & Jessica</h2>
-                                                    <p>We Are Getting Married Nov 22,2022</p>
+                                                    <h2>Rakesh & Amulya</h2>
+                                                    <p>We Are Getting Married May 26,2022</p>
                                                     <div className="shape-2"><img src={heros2} alt="" /></div>
                                                 </div>
                                             </div>
@@ -52,8 +52,8 @@ class Hero2 extends Component {
                                             <div className="wedding-announcement">
                                                 <div className="couple-text">
                                                     <div className="shape-1"><img src={heros1} alt="" /></div>
-                                                    <h2>Daniel & Jessica</h2>
-                                                    <p>We Are Getting Married Nov 22,2022</p>
+                                                    <h2>Rakesh & Amulya</h2>
+                                                    <p>We Are Getting Married May 26,2022</p>
                                                     <div className="shape-2"><img src={heros2} alt="" /></div>
                                                 </div>
                                             </div>
@@ -67,8 +67,8 @@ class Hero2 extends Component {
                                                 <div className="wedding-announcement">
                                                     <div className="couple-text">
                                                         <div className="shape-1"><img src={heros1} alt="" /></div>
-                                                        <h2>Daniel & Jessica</h2>
-                                                        <p>We Are Getting Married Nov 22,2022</p>
+                                                        <h2>Rakesh & Amulya</h2>
+                                                        <p>We Are Getting Married May 26,2022</p>
                                                         <div className="shape-2"><img src={heros2} alt="" /></div>
                                                     </div>
                                                 </div>

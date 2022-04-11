@@ -67,7 +67,7 @@ class Header2 extends Component {
                           <li><Link onClick={ClickHandler} to="/home3">Announcement S2</Link></li>
                           <li><Link onClick={ClickHandler} to="/home4">Wedding Planner</Link></li>
                           <li><Link onClick={ClickHandler} to="/home5">Shop Home</Link></li>
-                          <li><Link onClick={ClickHandler} to="/home6">Invitation</Link></li>
+                          <li><Link onClick={ClickHandler} to="/invitation">Invitation</Link></li>
                         </ul>
                       </li>
                       <li className="menu-item-has-children">
