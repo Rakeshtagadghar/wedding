@@ -13,12 +13,12 @@ class CoupleSection extends Component {
                             <div className="couple-area clearfix">
                                 <div className="text-grid bride">
                                     <h3>Amulya Gongle</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                    <p>A bubbly natured girl, who is a perfect blend of independent and emotional.</p>
                                     <div className="social">
                                         <ul>
-                                            <li><Link to="/"><i className="ti-facebook"></i></Link></li>
-                                            <li><Link to="/"><i className="ti-twitter-alt"></i></Link></li>
-                                            <li><Link to="/"><i className="ti-instagram"></i></Link></li>
+                                            {/* <li><Link to="/"><i className="ti-facebook"></i></Link></li> */}
+                                            {/* <li><Link to="/"><i className="ti-twitter-alt"></i></Link></li> */}
+                                            <li><Link to="https://www.instagram.com/amulya_gongle/"><i className="ti-instagram"></i></Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -29,12 +29,12 @@ class CoupleSection extends Component {
                                 </div>
                                 <div className="text-grid groom">
                                     <h3>Rakesh Tagadghar</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                    <p>A shy gaming freak, who is a mixture of maturity and a little playfulness all set to claim her heart once and for all.</p>
                                     <div className="social">
                                         <ul>
-                                            <li><Link to="/"><i className="ti-facebook"></i></Link></li>
-                                            <li><Link to="/"><i className="ti-twitter-alt"></i></Link></li>
-                                            <li><Link to="/"><i className="ti-instagram"></i></Link></li>
+                                            <li><Link to="https://www.facebook.com/Rakeshdrocka"><i className="ti-facebook"></i></Link></li>
+                                            {/* <li><Link to="/"><i className="ti-twitter-alt"></i></Link></li> */}
+                                            <li><Link to="https://www.instagram.com/rtagadghar/"><i className="ti-instagram"></i></Link></li>
                                         </ul>
                                     </div>
                                 </div>
