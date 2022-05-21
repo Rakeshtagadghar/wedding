@@ -3,7 +3,7 @@ import pimg2 from '../images/portfolio/10.jpg'
 import pimg3 from '../images/portfolio/11.jpg'
 import pimg4 from '../images/portfolio/12.jpg'
 import pimg5 from '../images/portfolio/13.jpg'
-import pimg6 from '../images/portfolio/5.JPG'
+import pimg6 from '../images/portfolio/51.jpg'
 
 import pSimg1 from '../images/portfolio-single/1.jpg'
 import pSimg2 from '../images/portfolio-single/2.jpg'

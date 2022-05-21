@@ -1,11 +1,11 @@
 import React from "react";
 import SectionTitle from "../SectionTitle";
-import pImg1 from "../../images/portfolio/1.JPG";
-import pImg2 from "../../images/portfolio/2.JPG";
-import pImg3 from "../../images/portfolio/3.JPG";
-import pImg4 from "../../images/portfolio/4.JPG";
-import pImg5 from "../../images/portfolio/5.JPG";
-import pImg6 from "../../images/portfolio/6.JPG";
+import pImg1 from "../../images/portfolio/11.jpg";
+import pImg2 from "../../images/portfolio/21.jpg";
+import pImg3 from "../../images/portfolio/31.jpg";
+import pImg4 from "../../images/portfolio/41.jpg";
+import pImg5 from "../../images/portfolio/51.jpg";
+import pImg6 from "../../images/portfolio/61.jpg";
 // import pImg7 from "../../images/portfolio/7.jpg";
 // import pImg8 from "../../images/portfolio/8.jpg";
 // import pImg9 from "../../images/portfolio/11.jpg";
