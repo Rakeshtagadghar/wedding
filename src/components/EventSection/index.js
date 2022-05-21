@@ -16,8 +16,8 @@ const Events = [
     {
         Simg: sImg2,
         title:'THE CEREMONY',
-        li1:'Thursday, 26 May, 2022 12:10 PM',
-        li2:'Swagath Grand,Jillelaguda X Road 123, Hyderabad',
+        li1:'Thursday, 26 May, 2022 12:11 PM',
+        li2:'Swagath Grand,Jillelaguda X Road, Hyderabad',
     },
     // {
     //     Simg: sImg3,
