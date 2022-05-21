@@ -12,7 +12,6 @@ import pImg6 from "../../images/portfolio/61.jpg";
 import ReactFancyBox from "react-fancybox";
 import "react-fancybox/lib/fancybox.css";
 
-
 const Portfolios = [
   {
     Pimg: pImg1,
@@ -32,15 +31,15 @@ const Portfolios = [
   {
     Pimg: pImg6,
   },
-//   {
-//     Pimg: pImg7,
-//   },
-//   {
-//     Pimg: pImg8,
-//   },
-//   {
-//     Pimg: pImg9,
-//   },
+  //   {
+  //     Pimg: pImg7,
+  //   },
+  //   {
+  //     Pimg: pImg8,
+  //   },
+  //   {
+  //     Pimg: pImg9,
+  //   },
 ];
 
 const PortfolioSection2 = (props) => {
@@ -59,7 +58,6 @@ const PortfolioSection2 = (props) => {
                   <div className="grid" key={pitem}>
                     <div className="img-holder">
                       <ReactFancyBox
-                        caption="test"
                         thumbnail={portfolio.Pimg}
                         image={portfolio.Pimg}
                       />
