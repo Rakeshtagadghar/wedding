@@ -2,42 +2,42 @@ import React from 'react';
 import {BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 import Homepage from '../HomePage'
-import Homepage2 from '../HomePage2'
-import HomePage3 from '../HomePage3';
-import HomePage4 from '../HomePage4';
-import HomePage5 from '../HomePage5';
-import HomePage6 from '../HomePage6';
-import TeamSinglePage from '../TeamSinglePage'
-import AboutPage from '../AboutPage'
-import StoryPage from '../StoryPage'
-import AccomodationPage from '../AccomodationPage'
-import RSVPPage from '../RSVPPage'
-import GalleryPage from '../GalleryPage'
-import PlannerPage from '../PlannerPage'
-import BrideGroomPage from '../BrideGroomPage'
-import PortfolioGridPage from '../PortfolioGridPage'
-import PortfolioMasonaryPage from '../PortfolioMasonaryPage'
-import ShopPage from '../ShopPage'
-import CheckoutPage from '../CheckoutPage'
-import CartPage from '../CartPage'
-import OrderRecived from '../OrderRecived'
-import ProjectSinglePage from '../ProjectSinglePage'
-import BlogPage from '../BlogPage'
-import BlogPageLeft from '../BlogPageLeft'
-import BlogPageFullwidth from '../BlogPageFullwidth'
-import BlogDetails from '../BlogDetails'
-import BlogDetailsFull from '../BlogDetailsFull'
-import BlogDetailsLeftSiide from '../BlogDetailsLeftSiide'
-import ErrorPage from '../ErrorPage'  
-import ContactPage from '../ContactPage' 
-import ProductSinglePage from '../ProductSinglePage'
-import ServicePage from '../ServicePage'
-import SeviceSinglePage from '../SeviceSinglePage'
-import PricingPage from '../PricingPage'
-import ComingSoonPage from '../ComingSoonPage'
-import LoginPage from '../LoginPage' 
-import SignUpPage from '../SignUpPage' 
-import ForgotPassword from '../ForgotPassword' 
+// import Homepage2 from '../HomePage2'
+// import HomePage3 from '../HomePage3';
+// import HomePage4 from '../HomePage4';
+// import HomePage5 from '../HomePage5';
+// import HomePage6 from '../HomePage6';
+// import TeamSinglePage from '../TeamSinglePage'
+// import AboutPage from '../AboutPage'
+// import StoryPage from '../StoryPage'
+// import AccomodationPage from '../AccomodationPage'
+// import RSVPPage from '../RSVPPage'
+// import GalleryPage from '../GalleryPage'
+// import PlannerPage from '../PlannerPage'
+// import BrideGroomPage from '../BrideGroomPage'
+// import PortfolioGridPage from '../PortfolioGridPage'
+// import PortfolioMasonaryPage from '../PortfolioMasonaryPage'
+// import ShopPage from '../ShopPage'
+// import CheckoutPage from '../CheckoutPage'
+// import CartPage from '../CartPage'
+// import OrderRecived from '../OrderRecived'
+// import ProjectSinglePage from '../ProjectSinglePage'
+// import BlogPage from '../BlogPage'
+// import BlogPageLeft from '../BlogPageLeft'
+// import BlogPageFullwidth from '../BlogPageFullwidth'
+// import BlogDetails from '../BlogDetails'
+// import BlogDetailsFull from '../BlogDetailsFull'
+// import BlogDetailsLeftSiide from '../BlogDetailsLeftSiide'
+// import ErrorPage from '../ErrorPage'  
+// import ContactPage from '../ContactPage' 
+// import ProductSinglePage from '../ProductSinglePage'
+// import ServicePage from '../ServicePage'
+// import SeviceSinglePage from '../SeviceSinglePage'
+// import PricingPage from '../PricingPage'
+// import ComingSoonPage from '../ComingSoonPage'
+// import LoginPage from '../LoginPage' 
+// import SignUpPage from '../SignUpPage' 
+// import ForgotPassword from '../ForgotPassword' 
       
 
 const AllRoute = () => { 
@@ -47,7 +47,7 @@ const AllRoute = () => {
        <Router>
           <Switch>
             <Route exact path='/' component={Homepage}/>
-            <Route path='/home' component={Homepage} />
+            {/* <Route path='/home' component={Homepage} />
             <Route path='/home2' component={Homepage2}/>
             <Route path='/home3' component={HomePage3}/>
             <Route path='/home4' component={HomePage4}/>
@@ -83,7 +83,7 @@ const AllRoute = () => {
             <Route path='/blog-fullwidth' component={BlogPageFullwidth}/>
             <Route path='/login' component={LoginPage}/>
             <Route path='/register' component={SignUpPage}/>
-            <Route path='/forgot-password' component={ForgotPassword}/> 
+            <Route path='/forgot-password' component={ForgotPassword}/>  */}
           </Switch>
       </Router>
       

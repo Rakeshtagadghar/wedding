@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import MobileMenu from "../MobileMenu";
 // import min3 from "../../images/love.png";
 import { removeFromCart } from "../../store/actions/action";
-import { Link } from 'react-scroll'
+// import { Link } from 'react-scroll'
 import { NavLink } from 'react-router-dom'
 import HeaderTopbar from "../HeaderTopbar";
 // import {totalPrice} from "../../utils";
@@ -36,7 +36,7 @@ class Header extends Component {
       window.scrollTo(10, 0);
     }
 
-    const { carts } = this.props;
+    // const { carts } = this.props;
 
 
     return (
