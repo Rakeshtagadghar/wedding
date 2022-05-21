@@ -4,8 +4,8 @@ import { TabContent, TabPane, Nav, NavItem, NavLink } from "reactstrap";
 import classnames from "classnames";
 // import sImg1 from "../../images/story/1.jpg";
 // import sImg2 from "../../images/story/2.jpg";
-import sImg3 from "../../images/story/3.JPG";
-import sImg4 from "../../images/story/4.JPG";
+import sImg3 from "../../images/story/3.jpg";
+import sImg4 from "../../images/story/4.jpg";
 
 // import sIcon1 from "../../images/story/1.png";
 // import sIcon2 from "../../images/story/2.png";
