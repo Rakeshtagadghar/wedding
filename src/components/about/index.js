@@ -2,6 +2,7 @@ import React from 'react'
 import abimg from '../../images/about.jpg'
 
 
+
 const About = (props) => {
     
     return(
