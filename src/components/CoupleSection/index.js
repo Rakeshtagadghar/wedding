@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom'
-import coupleImg1 from '../../images/couple/1.jpg'
+import coupleImg1 from '../../images/couple/111.JPG'
  
 class CoupleSection extends Component {
 
