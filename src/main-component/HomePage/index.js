@@ -22,13 +22,13 @@ const HomePage =() => {
             <Hero/>
             <CoupleSection/>
             <StorySection/>
-            <VideoSection/>
+            {/* <VideoSection/> */}
             <PortfolioSection2/>
-            <RSVP/>
+            {/* <RSVP/> */}
             <EventSection/>
             <PartnerSection/>
-            <BlogSection/>
-            <Footer/> 
+            {/* <BlogSection/> */}
+            {/* <Footer/>  */}
             <Scrollbar/>
         </Fragment>
     )

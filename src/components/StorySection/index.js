@@ -24,6 +24,10 @@ const StorySection = (props) => {
   const Tabs = [
     {
       Id: "1",
+      tabItem: "Pre wedding Shoot",
+    },
+    {
+      Id: "4",
       tabItem: "Our Engagement",
     },
     // {
@@ -34,15 +38,20 @@ const StorySection = (props) => {
     //   Id: "3",
     //   tabItem: "First Date",
     // },
-    {
-      Id: "4",
-      tabItem: "Pre wedding Shoot",
-    },
   ];
 
   const Story = [
     {
       Id: "1",
+      sImg: sImg3,
+      sIcon: sIcon3,
+      Shape: Shape,
+      sTitle: "Pre wedding Shoot",
+      date: "May 14,2022",
+      description: "",
+    },
+    {
+      Id: "4",
       sImg: sImg4,
       sIcon: sIcon4,
       Shape: Shape,
@@ -71,16 +80,6 @@ const StorySection = (props) => {
     //   description:
     //     "I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach",
     // },
-    {
-      Id: "4",
-      sImg: sImg3,
-      sIcon: sIcon3,
-      Shape: Shape,
-      sTitle: "Pre wedding Shoot",
-      date: "May 14,2022",
-      description:
-        "I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach",
-    },
   ];
 
   return (

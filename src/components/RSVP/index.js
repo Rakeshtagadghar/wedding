@@ -110,7 +110,7 @@ class RSVP extends Component {
                                             <p>{error.address ? error.address : ''}</p>
                                         </div>
                                     </div>
-                                    <div>
+                                    {/* <div>
                                         <select name="service" className="form-control" value={service} onChange={this.changeHandler}>
                                             <option>Service</option>
                                             <option>Photography</option>
@@ -121,7 +121,7 @@ class RSVP extends Component {
                                             <option>All Of The Above</option>
                                         </select>
                                         <p>{error.service ? error.service : ''}</p>
-                                    </div>
+                                    </div> */}
                                     <div>
                                         <select name="guest" className="form-control" value={guest} onChange={this.changeHandler}>
                                             <option>Number Of Guests</option>
@@ -133,7 +133,7 @@ class RSVP extends Component {
                                         </select>
                                         <p>{error.guest ? error.guest : ''}</p>
                                     </div>
-                                    <div>
+                                    {/* <div>
                                         <select name="meal" className="form-control last" value={meal} onChange={this.changeHandler}>
                                             <option>Meal Preferences</option>
                                             <option>Chicken Soup</option>
@@ -143,7 +143,7 @@ class RSVP extends Component {
                                             <option>Beef Ribs </option>
                                         </select>
                                         <p>{error.meal ? error.meal : ''}</p>
-                                    </div>
+                                    </div> */}
                                     <div className="submit-area">
                                         <div className="form-submit">
                                             <button type="submit" className="theme-btn-s3">Send Message</button>

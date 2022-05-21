@@ -60,7 +60,7 @@ class Header extends Component {
                   <div id="navbar" className="collapse navbar-collapse navigation-holder">
                     <button className="menu-close"><i className="ti-close"></i></button>
                     <ul className="nav navbar-nav mb-2 mb-lg-0">
-                      <li className="menu-item-has-children">
+                      {/* <li className="menu-item-has-children">
                         <Link activeClass="active" to="home" spy={true} smooth={true} duration={500} >Home</Link>
                         <ul className="sub-menu">
                           <li><NavLink onClick={ClickHandler} to="/home">Main Home</NavLink></li>
@@ -70,13 +70,13 @@ class Header extends Component {
                           <li><NavLink onClick={ClickHandler} to="/home5">Shop Home</NavLink></li>
                           <li><NavLink onClick={ClickHandler} to="/invitation">Invitation</NavLink></li>
                         </ul>
-                      </li>
-                      <li><Link activeClass="active" to="couple" spy={true} smooth={true} offset={-100} duration={500} >Couple</Link></li>
+                      </li> */}
+                      {/* <li><Link activeClass="active" to="couple" spy={true} smooth={true} offset={-100} duration={500} >Couple</Link></li>
                       <li><Link activeClass="active" to="story" spy={true} smooth={true} duration={500} >Story</Link></li>
                       <li><Link activeClass="active" to="gallery" spy={true} smooth={true} duration={500} >Gallery</Link></li>
                       <li><Link activeClass="active" to="RSVP" spy={true} smooth={true} duration={500} >RSVP</Link></li>
-                      <li><Link activeClass="active" to="events" spy={true} smooth={true} offset={-80} duration={500} >Events</Link></li>
-                      <li className="menu-item-has-children">
+                      <li><Link activeClass="active" to="events" spy={true} smooth={true} offset={-80} duration={500} >Events</Link></li> */}
+                      {/* <li className="menu-item-has-children">
                         <NavLink onClick={ClickHandler} to="/blog">Blog</NavLink>
                         <ul className="sub-menu">
                           <li><NavLink onClick={ClickHandler} to="/blog">Blog right sidebar</NavLink></li>
@@ -94,7 +94,7 @@ class Header extends Component {
                             </ul>
                           </li>
                         </ul>
-                      </li>
+                      </li> */}
                     </ul>
 
                   </div>
